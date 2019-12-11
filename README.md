@@ -6,3 +6,6 @@ Haeriln here, i'm made of salt on video games, i'd like to sell PCs and create s
 My class option is Software Solutions and Work Applies (called SLAM : Solution Logicielles et Applications Métiers in french).
 
 I still a goat in code so, everyone is welcomed to help me.
+
+
+hello, it's collab1's first edit, trying to make a conflict and understand how does it work :)
