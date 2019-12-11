@@ -8,4 +8,4 @@ My class option is Software Solutions and Work Applies (called SLAM : Solution L
 I still a goat in code so, everyone is welcomed to help me.
 
 
-hello, it's collab1's first edit, trying to make a conflict and understand how does it work :)
+the conflict has been resolved by suppressing lines in cause of the conflict and replacing them by this one.
