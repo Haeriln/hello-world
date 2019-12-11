@@ -8,4 +8,4 @@ My class option is Software Solutions and Work Applies (called SLAM : Solution L
 I still a goat in code so, everyone is welcomed to help me.
 
 
-hey collab1, Heriln here, i'm trying just like you to make a conflict between these 2 commits. Let's see how it works (and if it works) :)
+the conflict has been resolved by suppressing lines in cause of the conflict and replacing them by this one.
